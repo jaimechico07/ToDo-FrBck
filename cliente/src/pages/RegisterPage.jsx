@@ -60,7 +60,7 @@ const RegisterPage = () => {
           <button className="bg-indigo-500 text-white px-4 py-2 rounded-md my-2" type="submit">Register</button>
         </form>
         <p className="flex gap-x-2 justify-between">
-          Already have an account?{" "}
+          Already have an account?
           <Link className="text-sky-500" to="/login">
             Login
           </Link>
